@@ -2307,5 +2307,22 @@
   "lastIndex":"-1",
   "donateUrl":"https://www.patreon.com/floraverse",
   "nsfw":false
+},
+ {
+  "url":"http://thedoghousediaries.com/",
+  "title":"DOGHOUSE | Planetary Migration",
+  "imageUrl":"http://thedoghousediaries.com/dhdcomics/NASA-planet.png",		
+  "imageSelector":"div#imgdiv >img",
+  "imageIndex":"0",
+  "firstSelector":".firstlink",		
+  "firstIndex":"0",		
+  "prevSelector":".previouslink",		
+  "prevIndex":"0",		
+  "randomSelector":".randomlink",		
+  "randomIndex":"0",		
+  "nextSelector":".nextlink",		
+  "nextIndex":"0",
+  "lastSelector":"http://thedoghousediaries.com/",
+  "lastIndex":"-1"
 }
 ]
